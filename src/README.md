@@ -56,6 +56,13 @@ EXT_04_OrganismMixtureExperiments.sh
 
 10_SCRIPT_01_Seurat.R
 
+### Cell type assignment based on marker genes
+11_H3_AssignCelltypes.R
+
+11_H_AssignCelltypes.R
+
+11_M_AssignCelltypes.R
+
 ### Script to identify differential genes (called later)
 12_DiffGenes_SCRIPT.R
 

@@ -1,0 +1,48 @@
+CommonName	Human_GeneName	Mouse_GeneName	CellType	Reference
+NA	GCG	Gcg	Alpha	Baron2016
+NA	INS	Ins1	Beta	Baron2016
+NA	INS	Ins2	Beta	Baron2016
+NA	PPY	Ppy	Gamma	Baron2016
+NA	SST	Sst	Delta	Baron2016
+NA	GHRL	Ghrl		Baron2016
+NA	PRSS1	Prss1	Acinar	Baron2016
+NA	KRT19	Krt19	Ductal	Baron2016
+NA	SPARC	Sparc	Endothelial	Baron2016
+NA	VWF	Vwf	Endothelial	Baron2016
+NA	RGS5	Rgs5	Quiescent	Baron2016
+NA	PDGFRA	Pdgfra		Baron2016
+NA	SOX10	Sox10		Baron2016
+NA	SDS	Sds		Baron2016
+NA	TPSAB1	Tpsab1		Baron2016
+NA	TRAC	Trac		Baron2016
+NA	MAFA	Mafa	Beta	Baron2016
+NA	NKX6	Nkx6	Beta	Baron2016
+NA	SIX3	Six3	Beta	Baron2016
+NA	OLIG1	Olig1	Beta	Baron2016
+NA	MAFB	Mafb	Alpha_Beta	Baron2016
+NA	IRX1	Irx1	Alpha	Baron2016
+NA	IRX2	Irx2	Alpha	Baron2016
+NA	HHEX	Hhex	Delta	Baron2016
+NA	POU3F1	Pou3f1	Delta	Baron2016
+NA	REG1A	Reg1a	Acinar	Li_EMBOJ2016
+NA	KRT8	Krt8	Ductal	Li_EMBOJ2016
+NA	LOXL4	Loxl4	Alpha	Muraro2016
+NA	CRYBA2	Cryba2	Alpha	Muraro2016
+NA	TTR	Ttr	Alpha	Muraro2016
+NA	TM4SF4	Tm4sf4	Alpha	Muraro2016
+NA	IAPP	Iapp	Beta	Muraro2016
+NA	NPTX2	Nptx2	Beta	Muraro2016
+NA	DLK1	Dlk1	Beta	Muraro2016
+NA	PDX1	Pdx1	Beta	Muraro2016
+NA	SYT13	Syt13	Beta	Muraro2016
+NA	SMAD9	Smad9	Beta	Muraro2016
+NA	CDKN1C	Cdkn1c	Beta	Muraro2016
+NA	MNX1	Mnx1	Beta	Muraro2016
+NA	BMP5	Bmp5	Beta	Muraro2016
+NA	PIR	Pir	Beta	Muraro2016
+NA	RBP4	Rbp4	Delta	Muraro2016
+NA	PCSK1	Pcsk1	Delta	Muraro2016
+NA	ETV1	Etv1	Gamma	Muraro2016
+NA	ARX	Arx	Gamma	Muraro2016
+NA	PAX6	Pax6	Gamma	Muraro2016
+NA	SPP1	Spp1	Ductal	Stefan

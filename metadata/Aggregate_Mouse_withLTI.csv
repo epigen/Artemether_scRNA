@@ -1,0 +1,16 @@
+library_id,molecule_h5
+mIslets_I_A1,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_I_A1/outs/molecule_info.h5
+mIslets_I_A10,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_I_A10/outs/molecule_info.h5
+mIslets_I_DMSO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_I_DMSO/outs/molecule_info.h5
+mIslets_I_FoxO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_I_FoxO/outs/molecule_info.h5
+mIslets_I_GABA,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_I_GABA/outs/molecule_info.h5
+mIslets_II_A1,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_II_A1/outs/molecule_info.h5
+mIslets_II_A10,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_II_A10/outs/molecule_info.h5
+mIslets_II_DMSO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_II_DMSO/outs/molecule_info.h5
+mIslets_II_FoxO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_II_FoxO_1_S33905/outs/molecule_info.h5
+mIslets_II_GABA,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_II_GABA_1_S33901/outs/molecule_info.h5
+mIslets_III_A1,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_III_A1/outs/molecule_info.h5
+mIslets_III_A10,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_III_A10/outs/molecule_info.h5
+mIslets_III_DMSO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_III_DMSO_1_S33909/outs/molecule_info.h5
+mIslets_III_FoxO,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_III_FoxO_1_S33925/outs/molecule_info.h5
+mIslets_III_GABA,$PROCESSED/artemether/results_pipeline/cellranger_count/mIslets_III_GABA/outs/molecule_info.h5

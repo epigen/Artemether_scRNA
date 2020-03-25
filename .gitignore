@@ -1,0 +1,10 @@
+.Rhistory
+.DS_Store
+._.DS_Store
+Rplots.pdf
+._*
+*._*
+*.DS_Store
+*._.DS_Store
+
+*.log

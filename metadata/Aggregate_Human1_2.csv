@@ -1,0 +1,10 @@
+library_id,molecule_h5
+hIslets_I_A10,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_I_A10_1_S33933/outs/molecule_info.h5
+hIslets_I_DMSO,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_I_DMSO_1_S33929/outs/molecule_info.h5
+hIslets_I_FoxO,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_I_FoxO_1_S33941/outs/molecule_info.h5
+hIslets_I_GABA,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_I_GABA_1_S33937/outs/molecule_info.h5
+hIslets_II_A10,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_II_A1/outs/molecule_info.h5
+hIslets_II_Aold,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_II_A2/outs/molecule_info.h5
+hIslets_II_DMSO,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_II_DMSO/outs/molecule_info.h5
+hIslets_II_FoxO,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_II_FoxO/outs/molecule_info.h5
+hIslets_II_GABA,$PROCESSED/artemether/results_pipeline/cellranger_count/hIslets_II_GABA/outs/molecule_info.h5
